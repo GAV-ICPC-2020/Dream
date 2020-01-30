@@ -8,13 +8,23 @@
 
 其他空余时间自行按照计划书的内容学习。
 
-2020/1/29 [Codeforces Round #427 (Div. 2)](https://codeforces.com/contest/835) 
+### 2020/1/29 
+
+[Codeforces Round #427 (Div. 2)](https://codeforces.com/contest/835) 
 
 ![](https://github.com/GAV-ICPC-2020/Dream/raw/master/pic/1.png)
 
-2020/1/30 [Codeforces Round #425 (Div. 2)](https://codeforces.com/contest/832) 
+**E** `二进制`
 
-2020/1/31 [Codeforces Round #421 (Div. 1)](https://codeforces.com/contest/819) 
+**F** `LCT` `基环树dp`
+
+- [ ] 用 LCT 求直径板子 A 一下 F
+
+### 2020/1/30 
+
+### [Codeforces Round #425 (Div. 2)](https://codeforces.com/contest/832) 
+
+[Codeforces Round #421 (Div. 1)](https://codeforces.com/contest/819) 
 
 [Codeforces Round #419 (Div. 1)](https://codeforces.com/contest/815) 
 
