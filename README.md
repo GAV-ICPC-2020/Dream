@@ -10,7 +10,7 @@
 
 2020/1/29 [Codeforces Round #427 (Div. 2)](https://codeforces.com/contest/835) 
 
-![](https://github.com/GAV-ICPC-2020/Dream/raw/master/pic/1.gif)
+![](https://github.com/GAV-ICPC-2020/Dream/raw/master/pic/1.png)
 
 2020/1/30 [Codeforces Round #425 (Div. 2)](https://codeforces.com/contest/832) 
 
