@@ -1,6 +1,6 @@
 # 训练计划
 
-## 2020 寒假
+# 2020 寒假
 
 > 2020/1/29 ~ 
 
@@ -8,7 +8,7 @@
 
 其他空余时间自行按照计划书的内容学习。
 
-### 2020/1/29 
+## 2020/1/29 
 
 [Codeforces Round #427 (Div. 2)](https://codeforces.com/contest/835) 
 
@@ -20,9 +20,9 @@
 
 - [ ] 用 LCT 求直径板子 A 一下 F
 
-### 2020/1/30 
+## 2020/1/30 
 
-### [Codeforces Round #425 (Div. 2)](https://codeforces.com/contest/832) 
+[Codeforces Round #425 (Div. 2)](https://codeforces.com/contest/832) 
 
 [Codeforces Round #421 (Div. 1)](https://codeforces.com/contest/819) 
 
