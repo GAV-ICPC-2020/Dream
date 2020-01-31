@@ -24,6 +24,10 @@
 
 [Codeforces Round #425 (Div. 2)](https://codeforces.com/contest/832) 
 
+![](https://github.com/GAV-ICPC-2020/Dream/raw/master/pic/2.png)
+
+**E** `高斯消元`
+
 [Codeforces Round #421 (Div. 1)](https://codeforces.com/contest/819) 
 
 [Codeforces Round #419 (Div. 1)](https://codeforces.com/contest/815) 
