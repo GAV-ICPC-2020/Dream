@@ -28,7 +28,15 @@
 
 **E** `高斯消元`
 
+## 2020/1/31 
+
 [Codeforces Round #421 (Div. 1)](https://codeforces.com/contest/819) 
+
+![](https://github.com/GAV-ICPC-2020/Dream/raw/master/pic/3.png)
+
+A是假题
+
+**E** `递归构造` 
 
 [Codeforces Round #419 (Div. 1)](https://codeforces.com/contest/815) 
 
