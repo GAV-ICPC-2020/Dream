@@ -38,9 +38,17 @@ A是假题
 
 **E** `递归构造` 
 
+## 2020/2/1
+
 [Codeforces Round #419 (Div. 1)](https://codeforces.com/contest/815) 
 
+![](https://github.com/GAV-ICPC-2020/Dream/raw/master/pic/4.png)
+
+## 2020/2/2
+
 [Playrix Codescapes Cup (Codeforces Round #413, rated, Div. 1 + Div. 2)](https://codeforces.com/contest/799) 
+
+![](https://github.com/GAV-ICPC-2020/Dream/raw/master/pic/5.png)
 
 [Codeforces Round #411 (Div. 1)](https://codeforces.com/contest/804) 
 
