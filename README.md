@@ -50,18 +50,24 @@ A是假题
 
 ![](https://github.com/GAV-ICPC-2020/Dream/raw/master/pic/5.png)
 
+## 2020/2/3
+
 [Codeforces Round #411 (Div. 1)](https://codeforces.com/contest/804) 
+
+![](https://github.com/GAV-ICPC-2020/Dream/raw/master/pic/6.png)
+
+## 2020/2/4
 
 [Codeforces Round #405 (rated, Div. 1, based on VK Cup 2017 Round 1)](https://codeforces.com/contest/790) 
 
+![](https://github.com/GAV-ICPC-2020/Dream/raw/master/pic/7.png)
+
+## 2020/2/5
+
 [Divide by Zero 2017 and Codeforces Round #399 (Div. 1 + Div. 2, combined)](https://codeforces.com/contest/768) 
+
+![](https://github.com/GAV-ICPC-2020/Dream/raw/master/pic/8.png)
 
 [Codeforces Round #396 (Div. 2)](https://codeforces.com/contest/766) 
 
 [Codeforces Round #395 (Div. 1)](https://codeforces.com/contest/763) 
-
-[Codeforces Round #394 (Div. 2)](https://codeforces.com/contest/761) 
-
-[Codeforces Round #393 (Div. 1) (8VC Venture Cup 2017 - Final Round Div. 1 Edition)](https://codeforces.com/contest/759) 
-
-[Codecraft-17 and Codeforces Round #391 (Div. 1 + Div. 2, combined)](https://codeforces.com/contest/757) 
